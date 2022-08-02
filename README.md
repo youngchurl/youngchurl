@@ -1,6 +1,4 @@
-# Hi I'm YoungChrul!     
-### Now, I'm Studing AI with Aiffel     
-### I'm into Big Data Analysis and Deep Learning    
+# Hi I'm YoungChrul!      
 
 
   
